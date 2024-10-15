@@ -52,4 +52,5 @@ Once cloned, you can open the `.pbix` file using Power BI Desktop.
 - Power BI Desktop application (Download from [Power BI](https://powerbi.microsoft.com/desktop/))
 - Basic understanding of data visualization concepts.
 
----
+--- ![Screenshot of Dashboard](https://github.com/anuragkushwah024/Blinkit_Analysis-Sprint1-/blob/2c36c400cc2ede2811f5f59289b242c09270e5b3/Dashboard_Image.png)
+
