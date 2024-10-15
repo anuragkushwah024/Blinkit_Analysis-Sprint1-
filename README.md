@@ -42,6 +42,7 @@ Some of the key findings from this analysis are:
 To get started with this repository, clone or download the repository files:
 
 ```bash
+https://github.com/anuragkushwah024/Blinkit_Analysis-Sprint1-
 ```
 
 Once cloned, you can open the `.pbix` file using Power BI Desktop.
